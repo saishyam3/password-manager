@@ -1,0 +1,32 @@
+{
+  "passwords": [
+    {
+      "id": "1",
+      "category": "work",
+      "app": "outlook",
+      "userName": "testuser@mytest.com",
+      "encryptedPassword": "VTNsemRHVnRabUYxYkhSQU1USXo="
+    },
+    {
+      "id": "2",
+      "category": "school",
+      "app": "messenger",
+      "userName": "testuser@mytest.com",
+      "encryptedPassword": "VG05MGFHbHVaMnhsWVhabE1qTkE="
+    },
+    {
+      "id": "253d",
+      "category": "books",
+      "app": "to do",
+      "userName": "gmail",
+      "encryptedPassword": "UVdRaGRIbEFNVEV4"
+    },
+    {
+      "id": "0893",
+      "category": "Cafe",
+      "app": "facebook",
+      "userName": "test123tester@gmx.de",
+      "encryptedPassword": "TVRJek5EVTJkMlZ5WVhOa1pnPT0="
+    }
+  ]
+}

@@ -1,3 +1,8 @@
+// Angular route definitions
 import { Routes } from '@angular/router';
+import { HomeComponent } from './pages/home.component';
 
-export const routes: Routes = [];
+// Exported route configuration
+export const routes: Routes = [
+  { path: '', component: HomeComponent },
+];
